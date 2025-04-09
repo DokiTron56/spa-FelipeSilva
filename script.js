@@ -27,7 +27,7 @@ function render() {
       content.innerHTML = `
         <h2>📋 Estructura por completar</h2>
         <h3>🖼️ Acá ingrese una imagen:</h3>
-        <!-- imagen aquí -->
+        <img src="gwen.png" alt="Spider-Gwen" style="width: 150px;" />
 
         <h3>📄 Aquí va una tabla:</h3>
         <!-- tabla aquí -->
